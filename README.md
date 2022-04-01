@@ -10,7 +10,8 @@ Hope You Will Like The Game. also u can use the code to make your own version of
 
 > ### To play the game, simply double click on the **main.exe**.
 ###  DEMO 
-![flappybirddemo](/flappybirddemo.gif)
+
+![flappybirddemo](https://user-images.githubusercontent.com/91308138/161219844-96994df6-8c76-4c35-9648-c0140b37562c.gif)
 
 PLEASE FEEL FREE TO FORK THE PROJECT AND START CONTRIBUTING. :)
 
